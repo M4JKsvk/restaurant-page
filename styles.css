@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+
+main {
+  margin: 1rem;
+  border: 1px black solid;
+}
+
+ul {
+  display: flex;
+  margin: 0;
+  padding: 1rem;
+}
+
+.nav-tab {
+  background-color: rgb(229, 240, 240);
+  list-style: none;
+  margin: 0 1rem;
+  padding: 1rem;
+  border: 1px black solid;
+  border-radius: 3px;
+}
+
+.nav-tab:hover {
+  background-color: rgb(213, 226, 226);
+}
+
+#home {
+    margin-left: 0;
+}
